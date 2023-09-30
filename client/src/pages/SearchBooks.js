@@ -164,6 +164,6 @@ const SearchBooks = () => {
       </Container>
     </>
   );
-};
+}; 
 
 export default SearchBooks;
